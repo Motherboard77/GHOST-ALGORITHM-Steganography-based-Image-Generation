@@ -1,8 +1,3 @@
-# GHOST-ALGORITHM-Steganography-based-Image-Generation
-The proposed algorithm is an image generation technique to encrypt transmitting data in visual format. Version-1 transforms input payload into a black-and-white maze, using the proposed Ghost Algorithm. Future iterations will improve on this, to generate complex images for data encryption.
-
-Usage & Licensing: Free use of this software — including integrating it into other systems or building on top of it — is permitted upon prior approval. Please reach out if you'd like to use this in your projects. 
-
 <div align="center">
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2d2d2d&height=200&section=header&text=GHOST%20ALGORITHM&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Steganography-based%20Image%20Generation&descAlignY=60&descSize=18&descColor=aaaaaa)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=Encrypt+data+in+visual+format.;Transform+payloads+into+mazes.;Steganography%2C+reimagined.;The+Ghost+Algorithm.)
